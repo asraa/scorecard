@@ -6,14 +6,12 @@ require (
 	github.com/go-git/go-git/v5 v5.2.0
 	github.com/go-vela/archiver v2.1.0+incompatible // indirect
 	github.com/mholt/archiver v3.1.1+incompatible
-	github.com/onsi/ginkgo v1.15.2
-	github.com/onsi/gomega v1.11.0
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.15.0
 	github.com/pierrec/lz4 v2.6.0+incompatible // indirect
 	github.com/pkg/errors v0.9.1
-	go.uber.org/zap v1.16.0
-	gocloud.dev v0.22.0
-	golang.org/x/sys v0.0.0-20210303074136-134d130e1a04 // indirect
-	golang.org/x/tools v0.1.0 // indirect
+	go.uber.org/zap v1.21.0
+	gocloud.dev v0.27.0
 )
 
 // The originial repository does not handle symlinks and there is an open PR https://github.com/mholt/archiver/pull/230.
